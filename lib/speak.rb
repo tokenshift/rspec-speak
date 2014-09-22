@@ -1,5 +1,3 @@
-require "rspec/speak/version"
-
 # Reads test descriptions and results out loud.
 module Speak
   # Speaks the name of the test.
