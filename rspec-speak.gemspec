@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["Nathan.Clark@tokenshift.com"]
   spec.summary       = %q{Listen to your tests.}
   spec.description   = %q{No, really. Listen.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tokenshift/rspec-speak"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
